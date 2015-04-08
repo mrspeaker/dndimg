@@ -1,6 +1,6 @@
 # dndimg
 
-![screen shot 2015-04-07 at 6 06 56 pm](https://cloud.githubusercontent.com/assets/129330/7034783/f0ae97c8-dd50-11e4-944e-aa38c7da31b4.png)
+![dndimg](https://cloud.githubusercontent.com/assets/129330/7045413/e8a2b00c-ddcb-11e4-8736-4f5112d57884.png)
 
 Drag and drop image, uploads to ImgUr and copies link to clipboard.
 
